@@ -100,9 +100,9 @@ async function scheduleTimer() {
        shortRestingTime: 10,
        longRestingTimeBegin: [2],
        midRestingTimeBegin: [6],
-       lunchTime: {begin: 4, time: 165},
+       lunchTime: {begin: 4, time: 175},
        dinnerTime: {begin: 8, time: 70},
-       abnormalClassTime: [{begin: 10, time: 40}],
+    // abnormalClassTime: [{begin: 10, time: 40}],
     // abnormalRestingTime: [{begin: 11, time: 5}, {begin: 12, time: 5}]
    }
 
